@@ -1,0 +1,9 @@
+/out/
+/target/
+/*/target/
+
+*.iml
+/.idea/
+
+/server/addon-cache/
+/Server/src/main/java/Secret.java
